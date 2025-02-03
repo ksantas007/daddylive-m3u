@@ -1,40 +1,39 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjz31pb2xxe5nv15"
-#EXTINF:-1 tvg-id="OTESport1(src01).gr" tvg-name="GR| COSMOTE SPORT 1 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport1.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 1 HD
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz"
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="GR| COSMOTE SPORT 1 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport1.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 1 HD
 https://xyzdddd.mizhls.ru/lb/premium622/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport2(src01).gr" tvg-name="GR| COSMOTE SPORT 2 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport2.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 2 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-name="GR| COSMOTE SPORT 2 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport2.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 2 HD
 https://xyzdddd.mizhls.ru/lb/premium623/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport3(src01).gr" tvg-name="GR| COSMOTE SPORT 3 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport3.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 3 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-name="GR| COSMOTE SPORT 3 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport3.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 3 HD
 https://xyzdddd.mizhls.ru/lb/premium624/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport4(src01).gr" tvg-name="GR| COSMOTE SPORT 4 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport4.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 4 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-name="GR| COSMOTE SPORT 4 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport4.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 4 HD
 https://xyzdddd.mizhls.ru/lb/premium625/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport5(src01).gr" tvg-name="GR| COSMOTE SPORT 5 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport5.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 5 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-name="GR| COSMOTE SPORT 5 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport5.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 5 HD
 https://xyzdddd.mizhls.ru/lb/premium626/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport6(src01).gr" tvg-name="GR| COSMOTE SPORT 6 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport6.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 6 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-name="GR| COSMOTE SPORT 6 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport6.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 6 HD
 https://xyzdddd.mizhls.ru/lb/premium627/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport7(src01).gr" tvg-name="GR| COSMOTE SPORT 7 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport7.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 7 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-name="GR| COSMOTE SPORT 7 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport7.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 7 HD
 https://xyzdddd.mizhls.ru/lb/premium628/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="OTESport8(src01).gr" tvg-name="GR| COSMOTE SPORT 8 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport8.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 8 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-name="GR| COSMOTE SPORT 8 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport8.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 8 HD
 https://xyzdddd.mizhls.ru/lb/premium629/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GR| COSMOTE SPORT 9 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport9.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 9 HD
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-name="GR| COSMOTE SPORT 9 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport9.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 9 HD
 https://xyzdddd.mizhls.ru/lb/premium630/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-
-#EXTINF:-1 tvg-id="novasports1(src01).gr" tvg-name="GR| NOVASPORTS 1 HD" tvg-logo="https://logo.iptveditor.com/novasports1.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 1 HD
+#EXTINF:-1 tvg-id="Novasports1.gr" tvg-name="GR| NOVASPORTS 1 HD" tvg-logo="https://logo.iptveditor.com/novasports1.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 1 HD
 https://xyzdddd.mizhls.ru/lb/premium631/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="novasports2(src01).gr" tvg-name="GR| NOVASPORTS 2 HD" tvg-logo="https://logo.iptveditor.com/novasports2.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 2 HD
+#EXTINF:-1 tvg-id="Novasports2.gr" tvg-name="GR| NOVASPORTS 2 HD" tvg-logo="https://logo.iptveditor.com/novasports2.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 2 HD
 https://xyzdddd.mizhls.ru/lb/premium632/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="novasports3(src01).gr" tvg-name="GR| NOVASPORTS 3 HD" tvg-logo="https://logo.iptveditor.com/novasports3.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 3 HD
+#EXTINF:-1 tvg-id="Novasports3.gr" tvg-name="GR| NOVASPORTS 3 HD" tvg-logo="https://logo.iptveditor.com/novasports3.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 3 HD
 https://xyzdddd.mizhls.ru/lb/premium633/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="novasports4(src01).gr" tvg-name="GR| NOVASPORTS 4 HD" tvg-logo="https://logo.iptveditor.com/novasports4.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 4 HD
+#EXTINF:-1 tvg-id="Novasports4.gr" tvg-name="GR| NOVASPORTS 4 HD" tvg-logo="https://logo.iptveditor.com/novasports4.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 4 HD
 https://xyzdddd.mizhls.ru/lb/premium634/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="novasports5(src01).gr" tvg-name="GR| NOVASPORTS 5 HD" tvg-logo="https://logo.iptveditor.com/novasports5.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 5 HD
+#EXTINF:-1 tvg-id="Novasports5.gr" tvg-name="GR| NOVASPORTS 5 HD" tvg-logo="https://logo.iptveditor.com/novasports5.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 5 HD
 https://xyzdddd.mizhls.ru/lb/premium635/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="Novasports6(src01).gr" tvg-name="GR| NOVASPORTS 6 HD" tvg-logo="https://logo.iptveditor.com/novasports6.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 6 HD
+#EXTINF:-1 tvg-id="Novasports6.gr" tvg-name="GR| NOVASPORTS 6 HD" tvg-logo="https://logo.iptveditor.com/novasports6.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS 6 HD
 https://xyzdddd.mizhls.ru/lb/premium636/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="NovasportsPrime(src01).gr" tvg-name="GR| NOVASPORTS PRIME" tvg-logo="https://unitedmedia.net/ea/wp-content/uploads/2021/08/NOVASPORTS-PRIME-ALT-V.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS PRIME
+#EXTINF:-1 tvg-id="Novasports.Prime.gr" tvg-name="GR| NOVASPORTS PRIME" tvg-logo="https://unitedmedia.net/ea/wp-content/uploads/2021/08/NOVASPORTS-PRIME-ALT-V.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS PRIME
 https://xyzdddd.mizhls.ru/lb/premium638/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="NovasportsStart(src01).gr" tvg-name="GR| NOVASPORTS START" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/nova-sports-start.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS START
+#EXTINF:-1 tvg-id="Novasports.Start.gr" tvg-name="GR| NOVASPORTS START" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/nova-sports-start.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS START
 https://xyzdddd.mizhls.ru/lb/premium637/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="NovasportsPremierLeague(src01).gr" tvg-name="GR|NOVASPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR|NOVASPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="Novasports.Premier.League.gr" tvg-name="GR|NOVASPORTS PREMIER LEAGUE" tvg-logo="https://logo.iptveditor.com/premierleague.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR|NOVASPORTS PREMIER LEAGUE
 https://xyzdddd.mizhls.ru/lb/premium599/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-id="novasportsNews(src01).gr" tvg-name="GR| NOVASPORTS NEWS" tvg-logo="https://logo.iptveditor.com/novasports24.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS NEWS
+#EXTINF:-1 tvg-id="Novasports.News.gr" tvg-name="GR| NOVASPORTS NEWS" tvg-logo="https://logo.iptveditor.com/novasports24.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| NOVASPORTS NEWS
 https://xyzdddd.mizhls.ru/lb/premium639/index.m3u8|Referer="https://cookiewebplay.xyz/"&Origin="https://cookiewebplay.xyz"&User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
